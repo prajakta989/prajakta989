@@ -1,9 +1,9 @@
 ## 💫 About Me
 
-🔭 I’m currently working on:
+🔭 I’m currently working on:<br/>
 React
    
-🌱 I’m currently learning:
+🌱 I’m currently learning:<br/>
 ReactJs, Next, Node js
 
 ## 💻Tech Stack
