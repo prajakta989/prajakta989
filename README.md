@@ -1,10 +1,10 @@
 ## 💫 About Me
 
 - 🔭 I’m currently working on:
-  React
+-  React
   
 - 🌱 I’m currently learning:
-  ReactJs, Next, Node js
+- ReactJs, Next, Node js
 
 ## 💻Tech Stack
 <p>
