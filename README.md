@@ -1,7 +1,7 @@
 ## 💫 About Me
 
 🔭 I’m currently working on:<br/>
-React
+ReactJs
    
 🌱 I’m currently learning:<br/>
 ReactJs, Next, Node js
